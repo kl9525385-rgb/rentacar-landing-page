@@ -10,7 +10,7 @@ Source: Google Keyword Planner export (13 Sep 2026, 254 keywords) + Google Pakis
 | Monthly & Long-Term | monthly car rental islamabad | Planner 50 + first Google suggestion; 4 planner variants |
 | Corporate | corporate car rental islamabad | Not in planner (low demand); competitors RCI, PakCarRentals, Hamza target it |
 | Luxury (+VIP) | luxury car rental islamabad | Planner 50 + Google suggestion; "vip"/"protocol" has no demand |
-| Chauffeur | chauffeur service islamabad | In Google suggestions; keeps "rent a car islamabad with driver" on the homepage |
+| Car with Driver (/chauffeur/) | rent a car islamabad with driver | Owner decision 30 Sep 2026: people search "with driver", not "chauffeur" (0 of 254 keywords); owns cluster 06 |
 | Intercity | rent a car islamabad to lahore | SEMrush 170/mo, KD 8%; strong suggestions |
 | Northern Areas hub | rent a car for northern areas | Google suggests "islamabad rent a car for northern areas"; 27 route keywords go to route pages |
 | Van & Coaster | hiace for rent in islamabad (500) | Biggest non-head term; Grand Cabin is a Toyota Hiace Grand Cabin (confirm normal Hiace) |
